@@ -1,0 +1,4 @@
+ibm-generative-ai
+python-dotenv
+langchain
+huggingface_hub
